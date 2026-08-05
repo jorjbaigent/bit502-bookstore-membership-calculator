@@ -11,8 +11,8 @@ This is a Python console application demonstrating fundamental programming conce
 - Selection (if/else)
 - Functions
 - Input validation
-- -Tkinter
-- _File handling
+- Tkinter
+- File handling
 
 ## Technologies
 
